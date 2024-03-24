@@ -30,3 +30,4 @@ else if(answer.operator === "division"){
 else{
   console.log("please select valid operator");
 }
+console.log("calculator created");
