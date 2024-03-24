@@ -1,0 +1,22 @@
+{
+  "name": "n4a3nq-simple_calculator",
+  "version": "1.0.1",
+  "description": "A simple calculator with Typescript,Node.js,inquirier",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "n4a3nq-simple_calculator": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aiman",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  },
+  "devDependencies": {
+    "@types/debug": "^4.1.12",
+    "@types/inquirer": "^9.0.7"
+  }
+}
